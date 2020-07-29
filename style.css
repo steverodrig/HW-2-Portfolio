@@ -1,0 +1,28 @@
+button:hover {
+    background-color: rgb(122, 115, 115);
+}
+.background {
+    background-image: url(images/backimg.jpg);
+}
+#img {
+     border: 1px solid #ddd;
+     padding: 5px;
+     border-radius: 50%;background-color: #ddd;
+     max-width: 100%;
+     height: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 30px;
+     margin-bottom: 30px;
+ }
+ #main {
+     background-color: white;
+     max-width: 75%;
+     height: auto;
+ }
+ .buff {
+     padding-left: 20px;
+     padding-right: 20px;
+     color: rgb(148, 140, 24);
+ }
