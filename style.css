@@ -37,3 +37,12 @@ button:hover {
 .margin {
     margin: 40px;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: rgb(44, 43, 44);
+    color: whitesmoke;
+    text-align: right;
+}
