@@ -46,3 +46,6 @@ button:hover {
     color: whitesmoke;
     text-align: right;
 }
+hr {
+    width: 100%;
+}
