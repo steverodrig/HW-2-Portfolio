@@ -2,7 +2,7 @@ button:hover {
     background-color: rgb(122, 115, 115);
 }
 .background {
-    background-image: url(images/backimg.jpg);
+    background-image: url(Images/backimg.jpg);
 }
 #img {
      border: 1px solid #ddd;
