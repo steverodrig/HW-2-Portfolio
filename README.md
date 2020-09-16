@@ -21,3 +21,14 @@ It was also an exercise in utilizing Bootstrap to implement:
 * hover color change button
 
 * no function for links of current page
+
+### Technologies Used
+CSS
+HTML
+
+### Screenshot
+![image](https://user-images.githubusercontent.com/21253903/93398956-26296b00-f842-11ea-8739-d264bb6edf74.png)
+![image](https://user-images.githubusercontent.com/21253903/93399571-78b75700-f843-11ea-95a3-a82922871892.png)
+
+### Deployed Link
+https://steverodrig.github.io/HW-2-Portfolio/
